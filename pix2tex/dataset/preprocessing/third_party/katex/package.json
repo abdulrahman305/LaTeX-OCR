@@ -59,7 +59,7 @@
     "jspngopt": "^0.1.0",
     "less": "~1.7.5",
     "nomnom": "^1.8.1",
-    "pako": "0.2.7",
+    "pako": "0.2.9",
     "selenium-webdriver": "^2.46.1",
     "uglify-js": "~2.4.15"
   },
