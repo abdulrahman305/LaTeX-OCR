@@ -1,4 +1,4 @@
-FROM python:3.13.0b1-slim
+FROM python:3.13.0b2-slim
 RUN pip install torch>=1.7.1
 WORKDIR /latexocr
 ADD pix2tex /latexocr/pix2tex/
