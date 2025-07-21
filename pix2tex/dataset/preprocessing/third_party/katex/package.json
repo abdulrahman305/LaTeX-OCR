@@ -48,7 +48,7 @@
   },
   "description": "Fast math typesetting for the web.",
   "devDependencies": {
-    "browserify": "^10.2.4",
+    "browserify": "^12.0.0",
     "clean-css": "~2.2.15",
     "eslint": "^1.10.2",
     "express": "~4.21.1",
@@ -57,7 +57,7 @@
     "jasmine-core": "^2.3.4",
     "js-yaml": "^3.3.1",
     "jspngopt": "^0.2.0",
-    "less": "~1.7.5",
+    "less": "~2.7.0",
     "nomnom": "^1.8.1",
     "pako": "0.2.9",
     "selenium-webdriver": "^4.0.0",
