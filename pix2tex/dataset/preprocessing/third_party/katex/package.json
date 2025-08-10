@@ -60,7 +60,7 @@
     "less": "~1.7.5",
     "nomnom": "^1.8.1",
     "pako": "0.2.9",
-    "selenium-webdriver": "^2.46.1",
+    "selenium-webdriver": "^4.0.0",
     "uglify-js": "~2.8.29"
   },
   "directories": {},
